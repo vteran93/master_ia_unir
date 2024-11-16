@@ -1,0 +1,15 @@
+
+# Install dependencies 
+
+https://pipenv.pypa.io/en/latest/installation.html
+
+```shell
+cd vision_artificial/tema_1
+pipenv install
+```
+
+# Run the examples
+
+```shell
+python vision_artificial/tema_1/jd_experiment.py 
+```
