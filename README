@@ -1,0 +1,22 @@
+
+# Install dependencies 
+
+````
+sudo apt update
+sudo apt install libgtk-3-dev libgl1-mesa-dev libglu1-mesa-dev -y
+```
+
+As python package manager you will need pipenv
+
+https://pipenv.pypa.io/en/latest/installation.html
+
+```shell
+cd vision_artificial/tema_1
+pipenv install
+```
+
+# Run the examples
+
+```shell
+python vision_artificial/tema_1/jd_experiment.py 
+```

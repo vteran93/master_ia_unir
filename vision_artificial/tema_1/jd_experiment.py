@@ -1,3 +1,6 @@
+"""
+Codigo generado por Chat GPT4o con instrucciones prompt
+"""
 import wx
 
 
